@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.block{
+width:300px;
+height:100px;
+border-radius:12px;
+background-color: #111188;
+margin: auto;
+margin-top: 20px;
+}
+
+
+#top{
+margin-top: 50px;
+}
+
+
+
+.block:hover{
+  box-sizing: border-box;
+border: 5px solid  #ccaa33;
+}
+.yellow{
+background-color: yellow;
+}
+.yellow:hover{
+border:5px blue solid;
+}
